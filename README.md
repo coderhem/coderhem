@@ -1,11 +1,9 @@
 !
-<img align="center" src="" alt="LOGO"/>
+<a href="https://www.linkedin.com/in/hem-raj-joshi-83096a217/" target="blank"><img align="center" src="https://drive.google.com/file/d/1YLhQ2zUUiQppzNflo_4cnjGTkKUlXhrU/view?usp=drive_link" alt="Hem Raj Joshi" /></a>
 <h1 align="center">Hi 👋, I'm Hem Raj Joshi</h1>
 <h3 align="center">A passionate Fornt-End Developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://drive.google.com/file/d/1YLhQ2zUUiQppzNflo_4cnjGTkKUlXhrU/view?usp=drive_link" alt="Hem Raj Joshi" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 
