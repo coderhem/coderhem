@@ -1,5 +1,5 @@
 !
-<a href="https://www.linkedin.com/in/hem-raj-joshi-83096a217/" target="blank"><img align="center" src="H:\All Projects\GitHub\Black Minimal Business Personal Profile Linkedin Banner.png"" alt="Hem Raj Joshi" /></a>
+<a href="https://www.linkedin.com/in/hem-raj-joshi-83096a217/" target="blank"><img align="center" src="H:\All Projects\GitHub\Black Minimal Business Personal Profile Linkedin Banner.png" alt="Hem Raj Joshi" /></a>
 <h1 align="center">Hi 👋, I'm Hem Raj Joshi</h1>
 <h3 align="center">A passionate Fornt-End Developer from Nepal</h3>
 
