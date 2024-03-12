@@ -1,5 +1,5 @@
 ![LOGO](https://github.com/coderhem/banner/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=trues)
-<img align="center" src="https://drive.google.com/file/d/1YLhQ2zUUiQppzNflo_4cnjGTkKUlXhrU/view?usp=sharing" alt="Hem Raj Joshi" />
+
 <h1 align="center">Hi 👋, I'm Hem Raj Joshi</h1>
 <h3 align="center">A passionate Fornt-End Developer from Nepal</h3>
 
